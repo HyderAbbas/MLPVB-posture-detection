@@ -4,11 +4,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 
-Official implementation of **"MLPVB: A Multi-Layer Perceptron Vision-Based Hybrid Technique for Posture-Based Heart Attack Detection"**.
 
-> Heart attack posture can sometimes lead to problematic situations for patients. This work introduces the **MLPVB** hybrid model, which fuses a **MobileNet-V2** patch-embedding Vision Transformer branch with a **VGG-19** feature branch, fine-tuned using **Ada2Max** (an enhanced Adam variant), to improve posture-based heart attack detection accuracy while keeping the model lightweight.
-
-If you use this code, please [cite the paper](#citation).
 
 ---
 
