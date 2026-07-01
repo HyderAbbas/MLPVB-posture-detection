@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "MLPVB: Multi-Layer Perceptron Vision-Based Hybrid Model for Posture-Based Heart Attack Detection"
+type: software
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    affiliation: "Your Institution"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/<your-username>/<your-repo-name>"
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-01"
+preferred-citation:
+  type: article
+  title: "MLPVB: A Multi-Layer Perceptron Vision-Based Hybrid Technique for Posture-Based Heart Attack Detection"
+  authors:
+    - family-names: "Your Last Name"
+      given-names: "Your First Name"
+  journal: "PeerJ Computer Science"
+  year: 2026
+  doi: "10.7717/peerj-cs.XXXXX"

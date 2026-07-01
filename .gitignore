@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints / weights (usually too large for git; use Zenodo/releases instead)
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+saved_models/
+
+# Datasets (usually too large for git; document how to obtain them instead)
+datasetval/
+data/
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
